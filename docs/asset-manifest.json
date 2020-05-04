@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neumannproject/static/css/main.e7cb2eed.chunk.css",
+    "main.js": "/neumannproject/static/js/main.1b23f5b6.chunk.js",
+    "main.js.map": "/neumannproject/static/js/main.1b23f5b6.chunk.js.map",
+    "runtime-main.js": "/neumannproject/static/js/runtime-main.b8398ebe.js",
+    "runtime-main.js.map": "/neumannproject/static/js/runtime-main.b8398ebe.js.map",
+    "static/js/2.d2f4816c.chunk.js": "/neumannproject/static/js/2.d2f4816c.chunk.js",
+    "static/js/2.d2f4816c.chunk.js.map": "/neumannproject/static/js/2.d2f4816c.chunk.js.map",
+    "index.html": "/neumannproject/index.html",
+    "precache-manifest.4e8fcad35071cc3582697ab1e0ba07da.js": "/neumannproject/precache-manifest.4e8fcad35071cc3582697ab1e0ba07da.js",
+    "service-worker.js": "/neumannproject/service-worker.js",
+    "static/css/main.e7cb2eed.chunk.css.map": "/neumannproject/static/css/main.e7cb2eed.chunk.css.map",
+    "static/js/2.d2f4816c.chunk.js.LICENSE.txt": "/neumannproject/static/js/2.d2f4816c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/neumannproject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8398ebe.js",
+    "static/js/2.d2f4816c.chunk.js",
+    "static/css/main.e7cb2eed.chunk.css",
+    "static/js/main.1b23f5b6.chunk.js"
+  ]
+}
